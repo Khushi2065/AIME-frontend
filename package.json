@@ -15,7 +15,6 @@
     "recharts": "^3.4.1"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.18",
     "@types/react": "^19.2.6",
     "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.24",
